@@ -1,0 +1,14 @@
+Steps:
+1. Populate the deck.
+2. Deal Hands
+    2.1 Face up to each player
+    2.2 Face up to Dealer
+    2.3 Face up to each player
+    2.4 Face down to the dealer
+3. Display hands to webpage
+4. Hit or Stand buttons
+    4.1 Each hit draws a new card
+        4.1.1 If sum is over 21 bust
+    4.2 Stand passes the turn
+5. Reveal Dealer card
+6. Dealer must draw to 17
